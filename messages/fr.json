@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Bienvenue",
+    "about": "Aller à la page à propos"
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Se connecter",
+    "logout": "Se déconnecter"
+  },
+  "AboutPage": {
+    "title": "Page à propos",
+    "home": "Accueil"
+  },
+  "ContactPage": {
+    "title": "Page de contact"
+  }
+}
